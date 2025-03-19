@@ -1,3 +1,7 @@
 .venv
 CV_UNAM_Manjeo_basico.pptx
 CV_UNAM_EM.pptx
+regression/diabetes.csv
+regression/plots
+regression/reg_tarea.ipynb
+.qodo
