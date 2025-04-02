@@ -5,3 +5,6 @@ regression/diabetes.csv
 regression/plots
 regression/reg_tarea.ipynb
 .qodo
+bayes_classifier/melanoma
+bayes_classifier/test
+bayes_classifier/train
